@@ -1,8 +1,14 @@
-\## Fire Incident Analysis
+\# Fire Incident Analysis
 
 
 
-\### Project Introduction:
+
+
+
+
+\## Project Introduction:
+
+
 
 
 
@@ -16,7 +22,7 @@ human behaviour during dwelling fires. They discussed the differences in socio-e
 
 
 
-\### Research Question:  
+\## Research Question:
 
 
 
